@@ -1,0 +1,50 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient(45deg, red,lightgray);
+    text-align: center;
+    margin:0px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color:white;
+    background-color: coral;
+    margin:10px;
+    padding: 10px;
+}
+h2{
+    color: white;
+    background-color: brown;
+    border-radius: 15px 15px 0px 0px;
+    padding: 15px;
+    width: 60%;
+    margin:auto;
+    border-style:groove;
+    border-bottom: 5px solid white;
+}
+img{
+    width: 300px;
+    height: 150px;
+    box-shadow: 5px 2px 5px 2px;
+}
+img:hover{
+    width: 350px;
+    height: 200px;
+}
+table{
+    width: 100%;
+}
+h1{
+    text-shadow: 3px 1px 1px ;
+}
+h1:hover{
+    font-size: 50px;
+}
